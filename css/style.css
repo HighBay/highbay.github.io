@@ -1173,3 +1173,11 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
+
+
+@media (max-width:400px){
+	.feature-grid .feature .image img {
+    display: inline;
+    max-width: 50%;
+}
+}
